@@ -11,7 +11,7 @@ This project builds a machine learning model to classify emails as either **Phis
 
 ## Dataset
 Dataset: kaggle Phishing_Email.csv
-
+Dataset link : https://www.kaggle.com/datasets/subhajournal/phishingemails?
 ## Technologies Used
 - Python
 - Pandas
